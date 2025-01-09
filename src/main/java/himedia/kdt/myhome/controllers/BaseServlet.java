@@ -1,4 +1,4 @@
-package himedia.kdt.controllers;
+package himedia.kdt.myhome.controllers;
 
 import jakarta.servlet.ServletConfig;
 import jakarta.servlet.ServletContext;

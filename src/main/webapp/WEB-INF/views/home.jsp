@@ -11,8 +11,8 @@
 	href="<%= request.getContextPath() %>/css/home.css"/>
 </head>
 <body>
-  <!-- <div id="container">
-    <div id="header">
+  <div id="container">
+  <!--  <div id="header">
       <h1>My Homepage</h1>
     </div> --> <!-- /header -->
     <jsp:include page="/WEB-INF/views/includes/header.jsp">
